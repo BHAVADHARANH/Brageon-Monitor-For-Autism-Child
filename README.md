@@ -17,8 +17,8 @@ Class: Target variable (Autism: YES/NO)
 
 Installation:
 Clone the repository:
-git clone https://github.com/BHAVADHARANH/braegen-autism-monitor.git
-cd braegen-autism-monitor
+git clone https://github.com/BHAVADHARANH/Brageon-Monitor-For-Autism-Child.git
+cd Brageon-Monitor-For-Autism-Child
 
 Install dependencies:
 pip install -r requirements.txt
